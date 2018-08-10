@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Uses python3
 def fibonacci_sum(n):
     a = 0
@@ -19,3 +20,11 @@ def fibonacci_sum(n):
 # Driver Program
 n = int(input())
 print(fibonacci_sum(n))
+=======
+n = int(input())
+A = [[0]*n for i in range(n)]
+for i in range(n):
+    for j in range(n):
+        print(A[i][j],end= ' ')
+    print()
+>>>>>>> 67bba19f8f38bc635f3e333cfddfd8a9527e6b34
