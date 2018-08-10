@@ -1,2 +1,2 @@
 # python_practice
-A practice of simple yet conceptual n short programs.. this goes on :-)
+Practice problems, include problems from different areas like algorithms, implementation, coursera, etc.
