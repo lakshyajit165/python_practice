@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# Uses python3
-
-=======
-<<<<<<< HEAD
-# Uses python3
-=======
 t = int(input())
 A = []
 for line in range(t):
@@ -16,5 +9,3 @@ for line in range(t):
         A.remove(A[0])
     else:
         print(A[0])
->>>>>>> 67bba19f8f38bc635f3e333cfddfd8a9527e6b34
->>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f

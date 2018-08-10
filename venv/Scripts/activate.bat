@@ -1,5 +1,9 @@
 @echo off
+<<<<<<< HEAD
 set "VIRTUAL_ENV=C:\Users\LAKSHYAJIT LAXMIKANT\PycharmProjects\venv"
+=======
+set "VIRTUAL_ENV=G:\Pycharm Projects\python_prac\venv"
+>>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 
 if not defined PROMPT (
     set "PROMPT=$P$G"
