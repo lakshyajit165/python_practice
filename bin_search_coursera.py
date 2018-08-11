@@ -12,6 +12,10 @@ def bin_search(a,l,r,x):
     else:
         return(-1)
 A = list(map(int,input().split()))
-n = len(A)
-x = int(input())
-print(bin_search(A,0,n-1,x))
+B = list(map(int,input().split()))
+n = A[0]
+q = B[0]
+A.remove(A[0])
+B.remove(B[0])
+for i in B:
+    print(bin_search(A,0,n-1,i),end = ' ')
