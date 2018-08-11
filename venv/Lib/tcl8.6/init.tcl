@@ -22,9 +22,13 @@ package require -exact Tcl 8.6.6
 <<<<<<< HEAD
 package require -exact Tcl 8.6.6
 =======
+<<<<<<< HEAD
+package require -exact Tcl 8.6.6
+=======
 package require -exact Tcl 8.6.7
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 
 # Compute the auto path to use in this interpreter.
 # The values on the path come from several locations:
@@ -180,7 +184,10 @@ if {[interp issafe]} {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
     proc clock args {
 	namespace eval ::tcl::clock [list namespace ensemble create -command \
 		[uplevel 1 [list namespace origin [lindex [info level 0] 0]]] \
@@ -190,10 +197,13 @@ if {[interp issafe]} {
 
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 =======
     proc ::tcl::initClock {} {
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 	# Auto-loading stubs for 'clock.tcl'
 
 	foreach cmd {add format scan} {
@@ -212,11 +222,16 @@ if {[interp issafe]} {
 	return [uplevel 1 [info level 0]]
     }
 =======
+<<<<<<< HEAD
+	return [uplevel 1 [info level 0]]
+    }
+=======
 	rename ::tcl::initClock {}
     }
     ::tcl::initClock
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 }
 
 # Conditionalize for presence of exec.
@@ -321,7 +336,10 @@ proc unknown args {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 		append cinfo "\"\n    (\"uplevel\" body line 1)"
 		append cinfo "\n    invoked from within"
 		append cinfo "\n\"uplevel 1 \$args\""
@@ -332,12 +350,15 @@ proc unknown args {
 		set expect "$msg\n    while executing\n\"$cinfo"
 <<<<<<< HEAD
 =======
+<<<<<<< HEAD
+=======
 =======
 		set tail "\n    (\"uplevel\" body line 1)\n    invoked\
 			from within\n\"uplevel 1 \$args\""
 		set expect "$msg\n    while executing\n\"$cinfo\"$tail"
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 		if {$errInfo eq $expect} {
 		    #
 		    # The stack has only the eval from the expanded command
@@ -354,7 +375,10 @@ proc unknown args {
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 		set expect "\n    invoked from within\n\"$cinfo"
 		set exlen [string length $expect]
 		set eilen [string length $errInfo]
@@ -370,6 +394,8 @@ proc unknown args {
 		}
 		return -code error -errorcode $errCode \
 			-errorinfo $einfo $msg
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 =======
 =======
@@ -401,6 +427,7 @@ proc unknown args {
 		return -options $opts $msg
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 	    } else {
 		dict incr opts -level
 		return -options $opts $msg

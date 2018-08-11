@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
 <<<<<<< HEAD
+    <list default="true" id="fc6eb534-3b87-4752-bdc3-98b2ed515c5f" name="Default" comment="" />
+=======
+<<<<<<< HEAD
     <list default="true" id="a10d69c6-8c77-49e8-83d9-0babbaeec740" name="Default" comment="">
       <change afterPath="$PROJECT_DIR$/2D_Array_DS.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/2D_array_input.py" afterDir="false" />
@@ -151,6 +154,7 @@
     </list>
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -158,6 +162,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="coursera_majority_ele.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/coursera_majority_ele.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+=======
 <<<<<<< HEAD
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -184,10 +197,18 @@
             <state relative-caret-position="182">
               <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="String_Permutation.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/String_Permutation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+=======
 <<<<<<< HEAD
       <file leaf-file-name="String_Permutation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/String_Permutation.py">
@@ -303,10 +324,18 @@
             <state relative-caret-position="286">
               <caret line="11" selection-end-line="11" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
+      <file leaf-file-name="bin_search_coursera.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bin_search_coursera.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
+=======
 <<<<<<< HEAD
       <file leaf-file-name="Fibo_last_digit_Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Fibo_last_digit_Sum.py">
@@ -337,6 +366,7 @@
             <state relative-caret-position="208">
               <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
             </state>
           </provider>
         </entry>
@@ -350,6 +380,16 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bin_search_coursera.py" />
+        <option value="$PROJECT_DIR$/coursera_majority_ele.py" />
+=======
 <<<<<<< HEAD
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -385,11 +425,18 @@
         <option value="$PROJECT_DIR$/String_Rotation.py" />
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/String_Permutation.py" />
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="950" />
+<<<<<<< HEAD
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+=======
     <option name="width" value="979" />
     <option name="height" value="1040" />
   </component>
@@ -422,6 +469,7 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -431,14 +479,22 @@
       <pane id="Scope" />
 =======
 <<<<<<< HEAD
+      <pane id="Scope" />
+=======
+<<<<<<< HEAD
 =======
       <pane id="Scope" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
+              <item name="Practice2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice2" type="462c0819:PsiDirectoryNode" />
+=======
 <<<<<<< HEAD
               <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="Practice" type="462c0819:PsiDirectoryNode" />
@@ -451,11 +507,18 @@
               <item name="python_prac" type="462c0819:PsiDirectoryNode" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Practice" />
+=======
 <<<<<<< HEAD
     </panes>
   </component>
@@ -476,6 +539,7 @@
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -489,6 +553,11 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
+  <component name="RunManager">
+    <configuration name="coursera_majority_ele" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Practice2" />
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -608,6 +677,7 @@
     <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_prac" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -619,15 +689,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
 <<<<<<< HEAD
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/coursera_majority_ele.py" />
+=======
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test3.py" />
 =======
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+<<<<<<< HEAD
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.coursera_majority_ele" />
+      </list>
+    </recent_temporary>
+  </component>
+=======
     <list>
 <<<<<<< HEAD
       <item itemvalue="Python.test3" />
@@ -662,11 +744,19 @@
     </recent_temporary>
   </component>
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="fc6eb534-3b87-4752-bdc3-98b2ed515c5f" name="Default" comment="" />
+      <created>1533992958588</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533992958588</updated>
+=======
 <<<<<<< HEAD
       <changelist id="a10d69c6-8c77-49e8-83d9-0babbaeec740" name="Default" comment="" />
       <created>1533961925321</created>
@@ -688,10 +778,33 @@
       <updated>1531309610111</updated>
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
+<<<<<<< HEAD
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+=======
 <<<<<<< HEAD
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
@@ -741,11 +854,33 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+<<<<<<< HEAD
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/String_Permutation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursera_majority_ele.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin_search_coursera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -1464,9 +1599,13 @@
         <state relative-caret-position="260">
           <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
 >>>>>>> da640fa0050c6ca621a2f80c0cb8fb0a44ac2b3f
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
         </state>
       </provider>
     </entry>
   </component>
+<<<<<<< HEAD
+=======
 >>>>>>> bf9ec1b50b9a105f9d7e270e398763a0ccb4d098
+>>>>>>> 3fd2e0bf3056c187a4af3d5a6e8bb83949d7212a
 </project>

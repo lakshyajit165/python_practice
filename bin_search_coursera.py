@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# Uses python3
+>>>>>>> ec8b96507fecaa7a6c3b72561e9c555851fe633d
 def bin_search(a,l,r,x):
 
     if(r >= l):
