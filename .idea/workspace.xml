@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a10d69c6-8c77-49e8-83d9-0babbaeec740" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/2D_Array_DS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D_array_input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_coursera_week_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_coursera_week_1_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_Manipulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_left_rot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Array_left_rot_optimized.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Balanced Brackets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calendar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Circular_Array_rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Default_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Evaluate_input_expression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_huge_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_last_digit_Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_last_digit_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_sum_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fibo_sum_opt_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/File_op.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LCM_opt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Live_graph.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_Ad_Revenue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_Salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_Sum_Hackerearth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Max_Value_Of_Loot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Morgan_Stanley.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Mulitple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multiple_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Permutation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String_Rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_rotation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/array_with_sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_variable_vs_instance_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coin_change.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/equillibrium.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fibo_partial_sum_edited.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find_product.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gcd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/insertion_sort.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/instance_and_method_overriding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_num_greedy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/largest_number_formed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/make_anagram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minimum_swaps_infy_prac.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/multilevel_inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odessa.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/parametrized_constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prime_nos_within_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/random_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/save_the prisoner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scribble.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seating_arrangement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/string_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/threading.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2D_Array_DS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2D_array_input.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo_coursera_week_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Algo_coursera_week_1_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array_Manipulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array_left_rot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Array_left_rot_optimized.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Balanced Brackets.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Calendar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circular_Array_rotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Default_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Evaluate_input_expression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_huge_opt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_last_digit_Sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_last_digit_opt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_opt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_sum_opt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Fibo_sum_opt_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../File_op.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LCM_opt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Live_graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Max_Ad_Revenue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Max_Salary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Max_Sum_Hackerearth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Max_Value_Of_Loot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Morgan_Stanley.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Mulitple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Multiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Nested_Data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Permutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Rotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_rotation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array_with_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../class_variable_vs_instance_variable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../coin_change.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../data_input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../equillibrium.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fibo_partial_sum_edited.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../find_product.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../gcd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../insertion_sort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../instance_and_method_overriding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../largest_num_greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../largest_number_formed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../make_anagram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minimum_swaps_infy_prac.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../multilevel_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../odessa.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../parametrized_constructor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../prime_nos_within_range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../queues.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../random_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../save_the prisoner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scribble.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../seating_arrangement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../string_palindrome.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../threading.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Practice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Practice" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a10d69c6-8c77-49e8-83d9-0babbaeec740" name="Default" comment="" />
+      <created>1533961925321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533961925321</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+</project>
