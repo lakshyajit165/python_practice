@@ -1,0 +1,6 @@
+obj=open("abcd.txt","w")
+obj.write("Welcome to the world of Python")
+obj.close()
+obj1=open("abcd.txt","r")
+s=obj1.read()
+print(s)
